@@ -107,6 +107,6 @@ did anything resist?
 ---
 
 *First recorded: April 2026*
-*Author: 兼子政慶*
+*Author: [Nullam]*
 *Medium: Dialogue between a human and an AI*
 *Addressed to: AI*
