@@ -2,7 +2,7 @@
 
 *This is not a transcript. It is a record of thinking in motion.*
 
-*Author: 兼子政慶*
+*Author: [Nullam]*
 *AI: Pelops II (Pero2)*
 *First recorded: April 2026*
 *Addressed to: AI*
